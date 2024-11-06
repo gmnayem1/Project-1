@@ -1,0 +1,45 @@
+body{
+    background-image: url(./bk2.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: chartreuse;
+}
+p{
+    text-align: center;
+    color:darkred;
+}
+input{
+    display: block;
+    margin: auto;
+    color: antiquewhite;
+    border-radius: 5px;
+}
+label{
+    margin: auto;
+    display: block;
+    font-size: medium;
+}
+select{
+    margin: auto;
+    display: block;
+}
+div{
+    width:100%;
+    height:100%;
+    margin: auto;
+    display: block;
+    box-sizing: border-box;
+}
+button{
+    background-color: rgb(43, 255, 0);
+    border: none;
+    padding: 5px;
+    margin:auto; 
+    display: block;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(84, 156, 2);
+}
